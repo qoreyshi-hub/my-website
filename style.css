@@ -195,7 +195,7 @@ body{
 }
 @media only screen and (max-width: 360px) {
     .feedback{
-        margin-top: 1.5rem;
+        margin-top: .5rem;
     }
     .container{
         max-width: 100%;
@@ -221,3 +221,4 @@ body{
     }
 
 }
+
