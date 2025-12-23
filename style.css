@@ -170,7 +170,8 @@ body{
         flex-basis: 100%;
     }
     .image{
-        flex-basis: 100%;
+        max-width: 100%;
     }
 }
+
 
